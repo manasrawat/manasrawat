@@ -4,7 +4,7 @@
 
 ### Streaks
 
-![Manas' GitHub streaks](https://streak-stats.demolab.com?user=manasrawat&border=d0d7de&border_radius=6&background=ffffff&stroke=d0d7de&ring=fd8c73&fire=fd8c73&currStreakNum=fd8c73&sideNums=24292f&currStreakLabel=0969da&dates=57606a&disable_animations=true)
+![Manas' GitHub streaks](https://streak-stats.demolab.com?user=manasrawat&border=d0d7de&border_radius=6&background=ffffff&stroke=d0d7de&ring=fd8c73&fire=fd8c73&currStreakNum=fd8c73&currStreakLabel=fd8c73&sideNums=24292f&dates=57606a&disable_animations=true)
 
 ### Skills
 
