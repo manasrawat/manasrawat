@@ -3,7 +3,8 @@
 ![Manas' GitHub stats](https://github-readme-stats.vercel.app/api?username=manasrawat&count_private=true&hide_rank=true&show_icons=true&hide_title=true&include_all_commits=true&border_color=d0d7de&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_radius=6&disable_animations=true&text_bold=false)
 
 ### Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=manasrawat&border_radius=6&date_format=j%20M%5B%20Y%5D&background=ffffff&stroke=d0d7de&ring=EB8B1F&fire=EB8B1F&currStreakNum=24292f&sideNums=24292f&dates=57606a&disable_animations=true)
+
+![Manas' GitHub streaks](https://streak-stats.demolab.com?user=manasrawat&border=d0d7de&border_radius=6&date_format=j%20M%5B%20Y%5D&background=ffffff&stroke=d0d7de&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=24292f&dates=57606a&disable_animations=true)
 
 ### Skills
 
